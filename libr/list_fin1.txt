@@ -1,0 +1,5 @@
+STUDENT USN        BOOKS TO BE RETURNED
+1pe08cs001        ['pes002']
+1pe08cs006        ['pes006']
+1pe08cs007        ['pes070']
+1pe08cs008        ['pes049']
